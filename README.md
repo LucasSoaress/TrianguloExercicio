@@ -1,5 +1,5 @@
-# Triangulo Exercicio
-Algoritmo para solução de um exercicio de ciência da computação
+# Triângulo Exercício
+Algoritmo feito em Pascal, para solução de um exercicio de ciência da computação
 
 <h3>Questão</h3>
 "Escreva um algoritmo que calcule e imprima a área e o perímetro
